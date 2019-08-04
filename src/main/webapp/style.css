@@ -1,0 +1,12 @@
+.center{
+	width: 30%;
+	margin: auto;
+}
+.bigger{
+	width: 250px;
+	min-height: 20px;
+}
+.red{
+	color: red;
+	text-align:"center";
+}
